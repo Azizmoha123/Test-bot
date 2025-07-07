@@ -1,0 +1,60 @@
+{
+    "prefix": "$",
+    "clientId": "1172639197279031347",
+
+  
+  "roleidAngelS": "",
+  "roleidGreatS": "",
+  "roleidPerfectS": "",
+  "roleidExcellentS": "",
+  "roleidGoodS": "",
+  "roleidDesignerS": "",
+  "roleidDeveloperS": "",
+
+
+  "priceAngelS": "",
+  "priceGreatS": "",
+  "pricePerfectS": "",
+  "priceExcellentS": "",
+   "priceGoodS": "",
+   "priceDesignerS": "",
+   "priceDeveloperS": "",
+
+  "rolewarn25": "",
+  "rolewarn50": "",
+  "price_warn": "",
+
+  "price_manshort_here": "",
+   "price_manshort_everyone": "",
+   "manshortchannel": "",
+
+  "price_room": "",
+  "privateroomcatogray": "",
+  
+
+  "price_non_ads": "1",
+  "price_here_ads": "1",
+  "price_everyone_ads": "1",
+  "price_in_room_givaway_ads": "1",
+  "price_private_ads": "1",
+  "price_private_giveaway_ads": "1",
+
+  "adschannel": "",
+  "givaway_adschannel": "",
+
+
+  "scammer_role": "",
+  
+
+   "Auction_items_channel": "1225492778331541686",
+  
+    "staff": "1224829322926227640",
+  "report": "1224829322926227640",
+  "mediator": ["1224723134054400052", "1224829322926227640"],
+  "OWNERS": ["715248136012169347", ""],
+
+  
+  "owner": "715248136012169347",
+  "log": "1215951368813281283"
+
+}
